@@ -1,6 +1,6 @@
 # Introduciton
 
-[!NOTE]
+>[!NOTE]
 > *Blockchain is defined as a "distributed, decentralized, public ledger".Block, which is referred to as digital information, is stored ina chain known as a public database. Each block on the blockchain is made up of digital pieces of information. It is made up of the following three specific parts:*
 
 - 1. Information about a transaction, which is stored on a block; this may include information such as date, time and dollar amount.
