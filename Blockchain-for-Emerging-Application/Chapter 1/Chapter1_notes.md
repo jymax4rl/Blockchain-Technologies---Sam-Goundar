@@ -73,3 +73,5 @@ If many miners validate the same block, do they split the 12.5 BTC reward?
 - Rewards are not shared among all miners in the world.  
 - They are only shared **inside a mining pool** if the pool wins a block.  
 
+
+
