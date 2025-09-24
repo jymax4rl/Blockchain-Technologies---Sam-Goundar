@@ -16,7 +16,3 @@
 - 3. Transactions has to be stored in a block form.
 - 4. Transaction has to be *unique.*
 
-
-
->[!NOTE]
-> Ther are three categories of Blockchain: Public BLockchain, Private BLockchain, and Federatedd BLockchain. Publlic Blockchain is created on PoW (Proof of Work), and the consensus algorithms are open source are not permissioned. Using public Blockcahin, anybody can join without authorization, download the code, run a public node on a local device, validate the transaction and then create a block. [text](../../Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf)
