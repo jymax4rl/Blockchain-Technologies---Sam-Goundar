@@ -44,5 +44,6 @@ Block 1  --->  Block 2  --->  Block 3
  [Hash]     [Hash]      [Hash]
 ```
 Each arrow means: *“I store the hash of my parent.”*
-![alt text](blockchain_diagram.jpeg)
+
+![alt text](parent_child_hash_diagram.jpeg)
 
