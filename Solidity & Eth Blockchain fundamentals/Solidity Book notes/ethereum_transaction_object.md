@@ -3,8 +3,7 @@
 This note explains the important **properties of a transaction object** in Ethereum, as described in the book.  
 Use this with the screenshot below to visualize each property.
 
-![Ethereum Transaction Object](assets/tx-object.png)
-
+![alt text](Ethereum-tx-object.png)
 ---
 
 ## Key Properties of a Transaction
